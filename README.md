@@ -19,7 +19,7 @@ Concevoir, développer et maintenir des applications web performantes et scalabl
 ## 🧠 Compétences techniques
 - **Technos** : .NET (blazor server), Next.js
 - **Base de données** : MongoDB, PostgreSQL  
-- **Outils** : Git, Docker,   
+- **Outils** : Git, Docker   
 
 ## 👤 Profil recherché
 - 3+ ans d’expérience en développement full stack.  
